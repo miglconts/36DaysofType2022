@@ -85,4 +85,4 @@ for frame in range(totalFrames):
         # Move the y coordinate up for the next line
     
     
-saveImage(f"{texto}-olas.mp4")
+saveImage(f"{texto}-olas.mp4")  
