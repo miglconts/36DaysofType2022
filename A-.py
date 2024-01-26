@@ -1,8 +1,8 @@
 #Duración de animación
-totalFrames = 150
-segundos = 5
+totalFrames = 1
+segundos = 1
 #Lienzo
-factor = 1
+factor = 2
 ganancia = 0
 ancho,alto = 1600*factor,1600*factor
 print(ancho,alto)
@@ -18,8 +18,18 @@ fuente= '2022VF.ttf'
 
 #Colores de fondo y texto
 bg_r, bg_g, bg_b = 214, 11, 81
-colores=[(0.267,0.722,0.686),(0.898,0.000,0.329),(1.000,0.878,0.431),(0.929,0.427,0.020
-),(0.898,0.000,0.329),(1.000,0.878,0.431),(0.957,0.906,0.631),(0.945,0.710,0.200),(0.961,0.980,0.090),(0.953,0.820,0.776), ]
+colores=[
+        (0.267,0.722,0.686),
+        (0.898,0.000,0.329),
+        (1.000,0.878,0.431),
+        (0.929,0.427,0.020),
+        (0.957,0.906,0.631),
+        (1.000,0.878,0.431),
+        (0.945,0.710,0.200),
+        (0.961,0.980,0.090),
+                (0.898,0.000,0.329),
+
+        (0.953,0.820,0.776), ]
 
 #Calcular numero de caracteres
 chars= len(texto) 
@@ -85,4 +95,4 @@ for frame in range(totalFrames):
         # Move the y coordinate up for the next line
     
     
-saveImage(f"{texto}-olas.mp4")  
+saveImage(f"{texto}-olas.svg")  

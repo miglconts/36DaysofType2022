@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3200" height="3200" viewBox="0 0 3200 3200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <path d="M0,0 l3200,0 l0,3200 l-3200,0 Z M0,0" fill="rgb(255,255,255)" transform="matrix(1,0,0,-1,0,3200)"/>
+ <text text-anchor="start" transform="matrix(1,0,0,1,-226.89208984375,2532.0)">
+  <tspan fill="rgb(68,184,174)" font-family="2022-PreviewInstance" font-size="2400" x="12.5" y="318">
+   A
+  </tspan>
+ </text>
+ <text text-anchor="start" transform="matrix(1,0,0,1,41.90673828125,2532.0)">
+  <tspan fill="rgb(228,0,83)" font-family="2022-Regular_wght42FCBF" font-size="2400" x="12.5" y="318">
+   A
+  </tspan>
+ </text>
+ <text text-anchor="start" transform="matrix(1,0,0,1,-154.89501953125,2532.0)">
+  <tspan fill="rgb(255,223,109)" font-family="2022-Regular_wght2EDFFFF" font-size="2400" x="12.5" y="318">
+   A
+  </tspan>
+ </text>
+</svg>
